@@ -8,7 +8,7 @@ The game was also made in Tiled.
 
 # Run project locally
 ```
-git clone https://github.com/artemshchirov/pydew-valley.git
+git clone git@github.com:rblack3/Pydew-Valley.git
 pip install pygame
 cd Pydew-Valley
 python code/main.py
